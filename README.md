@@ -15,7 +15,7 @@ Currently, it contains practice test cases for learning purposes.
   - Expected results 📋
   - Supporting screenshots 🖼️  
 
-> Each test case is structured clearly to show the scenario and results.
+ Each test case is structured clearly to show the scenario and results.
 
 ---
 
